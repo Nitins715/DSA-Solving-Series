@@ -65,6 +65,30 @@ Problems are organized by **Week** and categorized into **Easy**, **Medium**, an
 
 ---
 
+| 🧩 Problem Title                                                                                                      | 💪 Difficulty |
+| --------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)               | 🟢 Easy       |
+| [Happy Number](https://leetcode.com/problems/happy-number/)                                                           | 🟢 Easy       |
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                               | 🟢 Easy       |
+| [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                           | 🟢 Easy       |
+| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                         | 🟢 Easy       |
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                               | 🟢 Easy       |
+| [Two Sum (hash map refresher)](https://leetcode.com/problems/two-sum/)                                                | 🟢 Easy       |
+| [Single Number](https://leetcode.com/problems/single-number/)                                                         | 🟢 Easy       |
+| [3Sum](https://leetcode.com/problems/3sum/)                                                                           | 🟡 Medium     |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                     | 🟡 Medium     |
+| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                           | 🟡 Medium     |
+| [Group Anagrams (rev)](https://leetcode.com/problems/group-anagrams/)                                                 | 🟡 Medium     |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                           | 🟡 Medium     |
+| [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                           | 🟡 Medium     |
+| [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                                     | 🟡 Medium     |
+| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                     | 🟡 Medium     |
+| [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)                                     | 🟡 Medium     |
+| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                                   | 🟡 Medium     |
+| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)                                           | 🔴 Hard       |
+| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard       |
+
+
 ## ✅ Features
 - 🧩 Optimized, clean, and well-documented Python solutions  
 - 🧠 Structured week-by-week for focused learning  

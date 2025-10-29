@@ -84,6 +84,33 @@ Each week focuses on a core topic — Arrays, Strings, Hashing, and more — wit
 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)                                           | 🔴 Hard       |
 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard       |
 
+---
+
+## 📅 Week 4: Binary Search & Heaps
+
+| 🧩 Problem Title                                                                                                                                  | 💪 Difficulty |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   | 🟢 Easy       |
+| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | 🟢 Easy       |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                   | 🟢 Easy       |
+| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                       | 🟢 Easy       |
+| [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                     | 🟢 Easy       |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                             | 🟢 Easy       |
+| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                   | 🟢 Easy       |
+| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                       | 🟢 Easy       |
+| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium     |
+| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                             | 🟡 Medium     |
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | 🟡 Medium     |
+| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                                             | 🟡 Medium     |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                       | 🟡 Medium     |
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                                 | 🟡 Medium     |
+| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                                                 | 🟡 Medium     |
+| [Find Kth Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)                                                | 🟡 Medium     |
+| [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/)                                                   | 🟡 Medium     |
+| [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                           | 🟡 Medium     |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                         | 🔴 Hard       |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                       | 🔴 Hard       |
+
 
 ## ✅ Features
 * 🧩 Clean, optimized, and well-documented Python solutions

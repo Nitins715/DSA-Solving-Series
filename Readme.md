@@ -111,6 +111,33 @@ Each week focuses on a core topic — Arrays, Strings, Hashing, and more — wit
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                         | 🔴 Hard       |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                       | 🔴 Hard       |
 
+---
+
+## 📅 Week 5: Linked List
+
+| 🧩 Problem Title | 💪 Difficulty |
+| ---------------- | ------------- |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy |
+| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟢 Easy |
+| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟢 Easy |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium |
+| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium |
+| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium |
+| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | 🟡 Medium |
+| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium |
+| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 Medium |
+| [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium |
+| [Partition List](https://leetcode.com/problems/partition-list/) | 🟡 Medium |
+| [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium |
+| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard |
+| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard |
+
 
 ## ✅ Features
 * 🧩 Clean, optimized, and well-documented Python solutions

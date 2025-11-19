@@ -138,6 +138,60 @@ Each week focuses on a core topic — Arrays, Strings, Hashing, and more — wit
 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard |
 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard |
 
+---
+
+## 📅 Week 6: Stack & Queues
+
+| 🧩 Problem Title | 💪 Difficulty |
+| ---------------- | ------------- |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy |
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy |
+| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy |
+| [Min Stack](https://leetcode.com/problems/min-stack/) | 🟢 Easy |
+| [Baseball Game](https://leetcode.com/problems/baseball-game/) | 🟢 Easy |
+| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy |
+| [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | 🟢 Easy |
+| [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | 🟢 Easy |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium |
+| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 🟡 Medium |
+| [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | 🟡 Medium |
+| [Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium |
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium |
+| [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | 🟡 Medium |
+| [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | 🟡 Medium |
+| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 🟡 Medium |
+| [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | 🟡 Medium |
+| [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | 🟡 Medium |
+| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard |
+| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard |
+
+---
+
+## 📅 Week 7: Recursion and Backtracking 
+
+| 🧩 Problem Title | 💪 Difficulty |
+| ---------------- | ------------- |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy |
+| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 Easy |
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy |
+| [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 🟢 Easy |
+| [Subsets (review)](https://leetcode.com/problems/subsets/) | 🟢 Easy |
+| [Permutations (review)](https://leetcode.com/problems/permutations/) | 🟢 Easy |
+| [Combinations](https://leetcode.com/problems/combinations/) | 🟢 Easy |
+| [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium |
+| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium |
+| [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium |
+| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium |
+| [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium |
+| [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium |
+| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium |
+| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 Medium |
+| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | 🟡 Medium |
+| [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard |
+| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard |
+
 
 ## ✅ Features
 * 🧩 Clean, optimized, and well-documented Python solutions

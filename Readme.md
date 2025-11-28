@@ -192,6 +192,33 @@ Each week focuses on a core topic — Arrays, Strings, Hashing, and more — wit
 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard |
 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard |
 
+---
+
+## 📅 Week 8: Heaps and Priority Queues
+
+| 🧩 Problem Title | 💪 Difficulty |
+| ---------------- | ------------- |
+| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 🟢 Easy |
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy |
+| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟢 Easy |
+| [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | 🟢 Easy |
+| [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | 🟢 Easy |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟢 Easy |
+| [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | 🟢 Easy |
+| [Sort Characters By Frequency (rev)](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟢 Easy |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium |
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium |
+| [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium |
+| [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | 🟡 Medium |
+| [IPO](https://leetcode.com/problems/ipo/) | 🟡 Medium |
+| [Reorganize String](https://leetcode.com/problems/reorganize-string/) | 🟡 Medium |
+| [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | 🟡 Medium |
+| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium |
+| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium |
+| [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | 🟡 Medium |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard |
+| [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 🔴 Hard |
+
 
 ## ✅ Features
 * 🧩 Clean, optimized, and well-documented Python solutions

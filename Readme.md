@@ -219,6 +219,114 @@ Each week focuses on a core topic — Arrays, Strings, Hashing, and more — wit
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard |
 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | 🔴 Hard |
 
+---
+
+## 📅 Week 9: Trees (Binary Tree & BST)
+
+| 🧩 Problem Title                                                                                                                                        | 💪 Difficulty |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                           | 🟢 Easy       |
+| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                         | 🟢 Easy       |
+| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                       | 🟢 Easy       |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                         | 🟢 Easy       |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                             | 🟢 Easy       |
+| [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                   | 🟢 Easy       |
+| [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                                     | 🟢 Easy       |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                             | 🟢 Easy       |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                   | 🟡 Medium     |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                               | 🟡 Medium     |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                       | 🟡 Medium     |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                               | 🟡 Medium     |
+| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                                                                             | 🟡 Medium     |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)   | 🟡 Medium     |
+| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 Medium     |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                           | 🟡 Medium     |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                     | 🟡 Medium     |
+| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                               | 🟡 Medium     |
+| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                             | 🔴 Hard       |
+| [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                           | 🔴 Hard       |
+
+---
+
+## 📅 Week 10: Graphs
+
+| 🧩 Problem Title                                                                                | 💪 Difficulty |
+| ----------------------------------------------------------------------------------------------- | ------------- |
+| [Flood Fill](https://leetcode.com/problems/flood-fill/)                                         | 🟢 Easy       |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)                           | 🟢 Easy       |
+| [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                             | 🟢 Easy       |
+| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                         | 🟢 Easy       |
+| [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)     | 🟢 Easy       |
+| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                       | 🟢 Easy       |
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                               | 🟢 Easy       |
+| [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | 🟢 Easy       |
+| [Course Schedule](https://leetcode.com/problems/course-schedule/)                               | 🟡 Medium     |
+| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                         | 🟡 Medium     |
+| [Clone Graph](https://leetcode.com/problems/clone-graph/)                                       | 🟡 Medium     |
+| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)                     | 🟡 Medium     |
+| [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                 | 🟡 Medium     |
+| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                       | 🟡 Medium     |
+| [Open the Lock](https://leetcode.com/problems/open-the-lock/)                                   | 🟡 Medium     |
+| [Evaluate Division](https://leetcode.com/problems/evaluate-division/)                           | 🟡 Medium     |
+| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)       | 🟡 Medium     |
+| [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                         | 🟡 Medium     |
+| [Word Ladder](https://leetcode.com/problems/word-ladder/)                                       | 🔴 Hard       |
+| [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                   | 🔴 Hard       |
+
+---
+
+## 📅 Week 11: Dynamic Programming – Part 1
+
+| 🧩 Problem Title                                                                                                                            | 💪 Difficulty |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                           | 🟢 Easy       |
+| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | 🟢 Easy       |
+| [House Robber](https://leetcode.com/problems/house-robber/)                                                                                 | 🟢 Easy       |
+| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                     | 🟢 Easy       |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                           | 🟢 Easy       |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                     | 🟢 Easy       |
+| [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                               | 🟢 Easy       |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | 🟢 Easy       |
+| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                             | 🟡 Medium     |
+| [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                   | 🟡 Medium     |
+| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)                                                                     | 🟡 Medium     |
+| [Word Break](https://leetcode.com/problems/word-break/)                                                                                     | 🟡 Medium     |
+| [Target Sum](https://leetcode.com/problems/target-sum/)                                                                                     | 🟡 Medium     |
+| [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                           | 🟡 Medium     |
+| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                                                     | 🟡 Medium     |
+| [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                   | 🟡 Medium     |
+| [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 🟡 Medium     |
+| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                         | 🟡 Medium     |
+| [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                               | 🔴 Hard       |
+| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)                                     | 🔴 Hard       |
+
+---
+
+## 📅 Week 12: Dynamic Programming – Part 2 (Advanced)
+
+| 🧩 Problem Title                                                                                  | 💪 Difficulty |
+| ------------------------------------------------------------------------------------------------- | ------------- |
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                               | 🟢 Easy       |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/)                                       | 🟢 Easy       |
+| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                               | 🟢 Easy       |
+| [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/)                              | 🟢 Easy       |
+| [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                        | 🟢 Easy       |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 | 🟢 Easy       |
+| [Triangle](https://leetcode.com/problems/triangle/)                                               | 🟢 Easy       |
+| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               | 🟢 Easy       |
+| [Interleaving String](https://leetcode.com/problems/interleaving-string/)                         | 🟡 Medium     |
+| [Maximal Square](https://leetcode.com/problems/maximal-square/)                                   | 🟡 Medium     |
+| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)           | 🟡 Medium     |
+| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                   | 🟡 Medium     |
+| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)               | 🟡 Medium     |
+| [Word Break II](https://leetcode.com/problems/word-break-ii/)                                     | 🟡 Medium     |
+| [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium     |
+| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                 | 🟡 Medium     |
+| [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)               | 🟡 Medium     |
+| [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)                   | 🟡 Medium     |
+| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)                     | 🔴 Hard       |
+| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                       | 🔴 Hard       |
+
 
 ## ✅ Features
 * 🧩 Clean, optimized, and well-documented Python solutions

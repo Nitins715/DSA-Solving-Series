@@ -1,5 +1,3 @@
-# File Name: 322_coin_change.py
-
 """
 Problem: Coin Change
 LeetCode #322

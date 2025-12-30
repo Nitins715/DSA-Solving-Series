@@ -1,5 +1,3 @@
-# File Name: 152_maximum_product_subarray.py
-
 """
 Problem: Maximum Product Subarray
 LeetCode #152

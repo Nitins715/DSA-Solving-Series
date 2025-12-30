@@ -1,5 +1,3 @@
-# File Name: 300_longest_increasing_subsequence.py
-
 """
 Problem: Longest Increasing Subsequence
 LeetCode #300
